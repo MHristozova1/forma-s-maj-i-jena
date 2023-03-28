@@ -1,0 +1,9 @@
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\bin\Debug\danni_vavejdane.exe
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\bin\Debug\danni_vavejdane.pdb
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.csprojAssemblyReference.cache
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.Form1.resources
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.Properties.Resources.resources
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.csproj.GenerateResource.cache
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.csproj.CoreCompileInputs.cache
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.exe
+C:\Users\milena\Documents\Visual Studio 2017\Projects\danni_vavejdane\danni_vavejdane\obj\Debug\danni_vavejdane.pdb
